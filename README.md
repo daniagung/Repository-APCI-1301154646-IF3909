@@ -1,1 +1,6 @@
-# Repository-APCI-1301154646-IF3909
+ Program Hello;
+        Uses Crt;
+        Begin
+            ClrScr;
+            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+        End
